@@ -23,7 +23,7 @@ const Navber = () => {
             <Link to='/'>
               <div className='lg:hidden flex gap-2 items-center'>
                 <img className='w-10' src={logo} alt="" />
-                <h3 className='text-lg font-bold text-transparent bg-clip-text bg-gradient-to-l from-[#632EE3] to-[#9F62F2]'>HERO.IO</h3>
+                <h3 className='text-lg font-bold text-transparent bg-clip-text bg-gradient-to-l from-[#632EE3] to-[#9F62F2]'>NexaHero</h3>
               </div>
             </Link>
           </div>
@@ -31,20 +31,20 @@ const Navber = () => {
         <Link to='/'>
           <div className='lg:flex hidden gap-2 items-center'>
             <img className='w-10' src={logo} alt="" />
-            <h3 className='text-lg font-bold text-transparent bg-clip-text bg-gradient-to-l to-[#632EE3] from-[#9F62F2]'>HERO.IO</h3>
+            <h3 className='text-lg font-bold text-transparent bg-clip-text bg-gradient-to-l to-[#632EE3] from-[#9F62F2]'>NexaHero</h3>
           </div>
         </Link>
         <div className=" hidden lg:flex">
           <ul className="menu nav-menu menu-horizontal px-1">
             <li><NavLink to='/' className='text-[16px] font-medium'>Home</NavLink></li>
             <li><NavLink to='apps' className='text-[16px] font-medium'>Apps</NavLink></li>
-            <li><NavLink to='installations' className='text-[16px] font-medium'>Installations</NavLink></li>
+            <li><NavLink to='installations' className='text-[16px] font-medium'>Installation</NavLink></li>
           </ul>
         </div>
-        <div className="btn flex bg-gradient-to-l to-[#632EE3] from-[#9F62F2] text-white">
+        <Link to='https://github.com/amin-babu/' target='_blank' className="btn flex bg-gradient-to-l to-[#632EE3] from-[#9F62F2] text-white">
           <img src={gitLogo} alt="" />
           <a className="">Contribute</a>
-        </div>
+        </Link>
       </div>
     </div>
   );

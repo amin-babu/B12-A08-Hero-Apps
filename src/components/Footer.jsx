@@ -10,7 +10,7 @@ const Footer = () => {
           <Link to='/'>
             <div className='flex gap-2 items-center'>
               <img className='w-10' src={logo} alt="" />
-              <h3 className='text-lg font-bold text-white'>HERO.IO</h3>
+              <h3 className='text-lg font-bold text-white'>NexaHero</h3>
             </div>
           </Link>
           <p className='text-[14px] mt-2.5'>
@@ -33,7 +33,7 @@ const Footer = () => {
         </nav>
         <nav className='flex flex-col gap-2.5 lg:mx-auto'>
           <h6 className="footer-title">Company</h6>
-          <a className="link link-hover text-[14px]">About HERO.IO</a>
+          <a className="link link-hover text-[14px]">About NexaHero.IO</a>
           <a className="link link-hover text-[14px]">Contact</a>
           <a className="link link-hover text-[14px]">Careers</a>
           <a className="link link-hover text-[14px]">Press & Media</a>
@@ -45,7 +45,7 @@ const Footer = () => {
           <a className="link link-hover text-[14px]">Cookie Policy</a>
         </nav>
       </div>
-      <p className='text-center py-4 border-t border-[#E5E7EB50]'>Copyright &copy; 2025 - All right reserved</p>
+      <p className='text-center w-11/12 mx-auto py-4 border-t border-[#E5E7EB50]'>Copyright &copy; 2025 - All right reserved</p>
     </footer>
 
   );

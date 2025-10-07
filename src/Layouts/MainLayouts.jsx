@@ -7,12 +7,14 @@ const MainLayouts = () => {
   return (
     <div className='min-h-screen flex flex-col'>
       <Navber></Navber>
-      <div className='flex-1 w-11/12 mx-auto'>
-        <Outlet></Outlet>
+      <div className='bg-[#f5f5f5] flex-1'>
+        <div className=''>
+          <Outlet></Outlet>
+        </div>
       </div>
       <Footer></Footer>
     </div>
   );
 };
-
+//
 export default MainLayouts;

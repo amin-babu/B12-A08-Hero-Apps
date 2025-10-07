@@ -1,0 +1,272 @@
+[
+  {
+    "image": "https://example.com/images/taskpro.png",
+    "title": "TaskPro",
+    "companyName": "NexaHero",
+    "id": 1,
+    "description": "A smart task manager that helps you organize and prioritize work with ease.",
+    "size": 25,
+    "reviews": 10500,
+    "ratingAvg": 4.6,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 7200 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/fittrack.png",
+    "title": "FitTrack",
+    "companyName": "NexaHero",
+    "id": 2,
+    "description": "Track workouts, calories, and health goals with an intuitive fitness companion.",
+    "size": 38,
+    "reviews": 9200,
+    "ratingAvg": 4.4,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 650 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 5800 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/studyhub.png",
+    "title": "StudyHub",
+    "companyName": "NexaHero",
+    "id": 3,
+    "description": "A productivity app for students to manage notes, schedules, and study goals.",
+    "size": 28,
+    "reviews": 7400,
+    "ratingAvg": 4.3,
+    "downloads": 380000,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 4700 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/finbuddy.png",
+    "title": "FinBuddy",
+    "companyName": "NexaHero",
+    "id": 4,
+    "description": "Smart personal finance manager to track expenses, savings, and budgets.",
+    "size": 31,
+    "reviews": 8600,
+    "ratingAvg": 4.5,
+    "downloads": 420000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 5700 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/mediplus.png",
+    "title": "MediPlus",
+    "companyName": "NexaHero",
+    "id": 5,
+    "description": "A healthcare tracker to remind you about medicines, doctor visits, and reports.",
+    "size": 29,
+    "reviews": 6400,
+    "ratingAvg": 4.2,
+    "downloads": 320000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 4100 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/evently.png",
+    "title": "Evently",
+    "companyName": "NexaHero",
+    "id": 6,
+    "description": "Plan, organize, and share events with friends, colleagues, and communities.",
+    "size": 35,
+    "reviews": 5300,
+    "ratingAvg": 4.1,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 650 },
+      { "name": "3 star", "count": 950 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 3600 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/travelmate.png",
+    "title": "TravelMate",
+    "companyName": "NexaHero",
+    "id": 7,
+    "description": "Your ultimate travel planner for booking, itineraries, and destination guides.",
+    "size": 41,
+    "reviews": 9700,
+    "ratingAvg": 4.6,
+    "downloads": 480000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 6700 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/brainboost.png",
+    "title": "BrainBoost",
+    "companyName": "NexaHero",
+    "id": 8,
+    "description": "A brain-training app with puzzles and exercises to boost memory and focus.",
+    "size": 27,
+    "reviews": 5100,
+    "ratingAvg": 4.0,
+    "downloads": 260000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 750 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 3000 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/habithub.png",
+    "title": "HabitHub",
+    "companyName": "NexaHero",
+    "id": 9,
+    "description": "Track, build, and maintain habits to achieve your personal growth goals.",
+    "size": 23,
+    "reviews": 6800,
+    "ratingAvg": 4.3,
+    "downloads": 340000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4200 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/chatgenie.png",
+    "title": "ChatGenie",
+    "companyName": "NexaHero",
+    "id": 10,
+    "description": "An AI-powered chat assistant for quick answers, reminders, and scheduling.",
+    "size": 36,
+    "reviews": 8800,
+    "ratingAvg": 4.5,
+    "downloads": 390000,
+    "ratings": [
+      { "name": "1 star", "count": 550 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 5600 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/shopmate.png",
+    "title": "ShopMate",
+    "companyName": "NexaHero",
+    "id": 11,
+    "description": "Smart shopping companion for deals, wishlists, and budget-friendly finds.",
+    "size": 33,
+    "reviews": 7200,
+    "ratingAvg": 4.2,
+    "downloads": 310000,
+    "ratings": [
+      { "name": "1 star", "count": 460 },
+      { "name": "2 star", "count": 730 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 4200 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/langify.png",
+    "title": "Langify",
+    "companyName": "NexaHero",
+    "id": 12,
+    "description": "A language learning app with gamified lessons and AI-powered practice tools.",
+    "size": 34,
+    "reviews": 9500,
+    "ratingAvg": 4.6,
+    "downloads": 470000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 850 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 6900 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/musicflow.png",
+    "title": "MusicFlow",
+    "companyName": "NexaHero",
+    "id": 13,
+    "description": "A personalized music streaming app with curated playlists for every mood.",
+    "size": 42,
+    "reviews": 11500,
+    "ratingAvg": 4.7,
+    "downloads": 520000,
+    "ratings": [
+      { "name": "1 star", "count": 650 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 7500 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/cookmate.png",
+    "title": "CookMate",
+    "companyName": "NexaHero",
+    "id": 14,
+    "description": "Discover and save recipes, meal plans, and grocery lists in one place.",
+    "size": 30,
+    "reviews": 5600,
+    "ratingAvg": 4.3,
+    "downloads": 330000,
+    "ratings": [
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 4300 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/timehero.png",
+    "title": "TimeHero",
+    "companyName": "NexaHero",
+    "id": 15,
+    "description": "Boost productivity with smart time-blocking and focus timers.",
+    "size": 26,
+    "reviews": 6700,
+    "ratingAvg": 4.4,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 650 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4300 }
+    ]
+  }
+]
