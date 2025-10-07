@@ -17,8 +17,8 @@ const Navber = () => {
               tabIndex={0}
               className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
               <li><NavLink to='/' className='text-[16px] font-medium'>Home</NavLink></li>
-              <li><NavLink to='about' className='text-[16px] font-medium'>Apps</NavLink></li>
-              <li><NavLink to='blogs' className='text-[16px] font-medium'>Installations</NavLink></li>
+              <li><NavLink to='' className='text-[16px] font-medium'>Apps</NavLink></li>
+              <li><NavLink to='' className='text-[16px] font-medium'>Installations</NavLink></li>
             </ul>
             <Link to='/'>
               <div className='lg:hidden flex gap-2 items-center'>
@@ -37,8 +37,8 @@ const Navber = () => {
         <div className=" hidden lg:flex">
           <ul className="menu nav-menu menu-horizontal px-1">
             <li><NavLink to='/' className='text-[16px] font-medium'>Home</NavLink></li>
-            <li><NavLink to='about' className='text-[16px] font-medium'>Apps</NavLink></li>
-            <li><NavLink to='blogs' className='text-[16px] font-medium'>Installations</NavLink></li>
+            <li><NavLink to='apps' className='text-[16px] font-medium'>Apps</NavLink></li>
+            <li><NavLink to='installations' className='text-[16px] font-medium'>Installations</NavLink></li>
           </ul>
         </div>
         <div className="btn flex bg-gradient-to-l to-[#632EE3] from-[#9F62F2] text-white">

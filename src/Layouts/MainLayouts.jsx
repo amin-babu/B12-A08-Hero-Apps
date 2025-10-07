@@ -5,9 +5,11 @@ import { Outlet } from 'react-router';
 
 const MainLayouts = () => {
   return (
-    <div>
+    <div className='min-h-screen flex flex-col'>
       <Navber></Navber>
-      <Outlet></Outlet>
+      <div className='flex-1 w-11/12 mx-auto'>
+        <Outlet></Outlet>
+      </div>
       <Footer></Footer>
     </div>
   );
