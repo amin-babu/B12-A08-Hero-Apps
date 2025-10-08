@@ -18,7 +18,7 @@ const Navber = () => {
               className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
               <li><NavLink to='/' className='text-[16px] font-medium'>Home</NavLink></li>
               <li><NavLink to='apps' className='text-[16px] font-medium'>Apps</NavLink></li>
-              <li><NavLink to='installations' className='text-[16px] font-medium'>Installations</NavLink></li>
+              <li><NavLink to='installations' className='text-[16px] font-medium'>Installations</NavLink></li>             
             </ul>
             <Link to='/'>
               <div className='lg:hidden flex gap-2 items-center'>
@@ -43,7 +43,7 @@ const Navber = () => {
         </div>
         <Link to='https://github.com/amin-babu/' target='_blank' className="btn flex bg-gradient-to-l to-[#632EE3] from-[#9F62F2] text-white">
           <img src={gitLogo} alt="" />
-          <p className="">Contribute</p>
+          <span className="hidden md:inline">Contribute</span>
         </Link>
       </div>
     </div>

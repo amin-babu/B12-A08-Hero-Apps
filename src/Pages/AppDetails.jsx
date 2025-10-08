@@ -7,6 +7,7 @@ import { useParams } from 'react-router';
 import Recharts from '../components/Recharts';
 import AppNotFound from './AppNotFound';
 import Loading from '../components/Loading';
+import { toast } from 'react-toastify';
 
 const AppDetails = () => {
   const { id } = useParams();
@@ -34,11 +35,14 @@ const AppDetails = () => {
   const { image, title, companyName, description, ratings, downloads, ratingAvg, reviews } = app || {};
 
   const handleInstall = () => {
-    setBtnText('Installed');
     const existingData = JSON.parse(localStorage.getItem('installApps')) || [];
     const isDuplicate = existingData.some(a => a.id === app.id);
-    if (isDuplicate) return alert('Already Installed!');
-
+    if (isDuplicate) {
+      return;
+    } else {
+      setBtnText('Installed');
+      toast.success('App is Installed');
+    }
     const updatedData = [...existingData, app];
     localStorage.setItem('installApps', JSON.stringify(updatedData));
   };
