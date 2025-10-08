@@ -1,12 +1,12 @@
 [
   {
-    "image": "forest-focus.jpg",
+    "image": "https://play-lh.googleusercontent.com/NWRVVF6zXvmcqspJwdFOKcQG6OlsNwpMOxED_DgB6B2BBDeWwAeWZKZxGhgqU0LQVJU",
     "title": "Forest: Focus for Productivity",
     "companyName": "Seekr Labs",
     "id": 1,
     "description": "Stay focused and beat phone addiction by planting virtual trees while you work.",
     "size": 32,
-    "reviews": 12000,
+    "reviews": "12K",
     "ratingAvg": 4.8,
     "downloads": "9M",
     "ratings": [
@@ -18,13 +18,13 @@
     ]
   },
   {
-    "image": "smplan-todo.jpg",
+    "image": "https://play-lh.googleusercontent.com/6yT8JfjY4ESEu69QpxHxjhyVhIoPgpbol1t4hEgfiBcGP0gy35ez0NvxyARrq5VPcGU",
     "title": "SmPlan: To-Do with Reminder",
     "companyName": "Smartly Apps",
     "id": 2,
     "description": "Organize tasks with reminders and sync across all your devices instantly.",
     "size": 18,
-    "reviews": 8700,
+    "reviews": "87K",
     "ratingAvg": 4.5,
     "downloads": "5.2M",
     "ratings": [
@@ -36,13 +36,13 @@
     ]
   },
   {
-    "image": "flip-focus.jpg",
+    "image": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f7c8f7dc89b4bb034c043d7a8e7118b0/getflip-flip.png",
     "title": "FLIP: Focus Timer for Study",
     "companyName": "FLIP Studio",
     "id": 3,
     "description": "A minimal focus timer built for students to track productive study hours.",
     "size": 25,
-    "reviews": 14300,
+    "reviews": "14K",
     "ratingAvg": 4.6,
     "downloads": "7M",
     "ratings": [
@@ -54,13 +54,13 @@
     ]
   },
   {
-    "image": "pomocat-timer.jpg",
+    "image": "https://play-lh.googleusercontent.com/2-coFiL20JMqVh6mWWyn1ZpkOxn90NGYkLSvj5lxlk6yBBucC5LpcLS0G_pq3xG8owbN",
     "title": "Pomocat: Cute Pomodoro Timer",
     "companyName": "Furry Devs",
     "id": 4,
     "description": "Boost productivity with an adorable cat-themed Pomodoro timer app.",
     "size": 21,
-    "reviews": 9800,
+    "reviews": "98K",
     "ratingAvg": 4.7,
     "downloads": "3.5M",
     "ratings": [
@@ -72,13 +72,13 @@
     ]
   },
   {
-    "image": "tasklynx.jpg",
+    "image": "https://play-lh.googleusercontent.com/H2f4NDZWZg2OnNurKINTCDAcmsC4bPXGLW9wNtV1zh7khAny0a8cXv7FxATbjHMeybE",
     "title": "TaskLynx: Daily Goal Planner",
     "companyName": "NextGen Tools",
     "id": 5,
     "description": "Track daily goals with smart analytics to build winning habits.",
     "size": 19,
-    "reviews": 6500,
+    "reviews": "6K",
     "ratingAvg": 4.4,
     "downloads": "4.8M",
     "ratings": [
@@ -90,13 +90,13 @@
     ]
   },
   {
-    "image": "mindtrack.jpg",
+    "image": "https://play-lh.googleusercontent.com/Jjodn7FlZSMhGUI5vQqUFWHja_tF68U2Ani52012gcIn4SWipisQGgdRN6duGK4uHpE=w240-h480-rw",
     "title": "MindTrack: Study Break Guide",
     "companyName": "FocusHive",
     "id": 6,
     "description": "Structured sessions for studying with breaks and motivational music.",
     "size": 28,
-    "reviews": 7200,
+    "reviews": "72K",
     "ratingAvg": 4.6,
     "downloads": "6.1M",
     "ratings": [
@@ -108,13 +108,13 @@
     ]
   },
   {
-    "image": "protime.jpg",
+    "image": "https://play-lh.googleusercontent.com/hxy7apcyhftsIf6xrZrt4YEYH-A2GyrAnpXpWpQroi0UuwbtDZINEhgPnp0QlgyJYIRznwU1ydD68JMfMw6_8w",
     "title": "ProTime: Smart Work Tracker",
     "companyName": "WorkPro Labs",
     "id": 7,
     "description": "Track work hours, break times, and boost productivity with insights.",
     "size": 22,
-    "reviews": 9400,
+    "reviews": "94K",
     "ratingAvg": 4.5,
     "downloads": "8M",
     "ratings": [
@@ -126,13 +126,13 @@
     ]
   },
   {
-    "image": "zenfocus.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPfU5u6SOYQRSUWFlN8psU9yLV0rBXl9DkMQ&s",
     "title": "ZenFocus: Calm Work Sessions",
     "companyName": "Zenith Apps",
     "id": 8,
     "description": "Achieve deep focus with calm ambient sounds and clean UI.",
     "size": 26,
-    "reviews": 8300,
+    "reviews": "83K",
     "ratingAvg": 4.7,
     "downloads": "5.3M",
     "ratings": [
@@ -144,13 +144,13 @@
     ]
   },
   {
-    "image": "habitnest.jpg",
+    "image": "https://play-lh.googleusercontent.com/p0TB-pqZ05DetPywkT-c5zMqxvsger3G7Rn64f4h70EtrYRwKlWLC9iFpknO7eLuj3wV",
     "title": "HabitNest: Build Better Habits",
     "companyName": "NestWorks",
     "id": 9,
     "description": "Create powerful routines and stay consistent with smart reminders.",
     "size": 20,
-    "reviews": 7800,
+    "reviews": "78K",
     "ratingAvg": 4.6,
     "downloads": "4.1M",
     "ratings": [
@@ -162,13 +162,13 @@
     ]
   },
   {
-    "image": "studyhub.jpg",
+    "image": "https://play-lh.googleusercontent.com/9Vhd_qWmm66eP1w36ZNDTMjcS0Lu7v48Z7i2Q_YRlkPs7OwTRMsfMPLGJFwdMkxO8yPC",
     "title": "StudyHub: Join Focus Rooms",
     "companyName": "Hubify",
     "id": 10,
     "description": "Join virtual study rooms with friends and stay accountable.",
     "size": 29,
-    "reviews": 9700,
+    "reviews": "9K",
     "ratingAvg": 4.8,
     "downloads": "9.5M",
     "ratings": [
@@ -180,13 +180,13 @@
     ]
   },
   {
-    "image": "timely.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVIw7KjWDY36-hqtqvjZqouHwSuBWnFKB3fg&s",
     "title": "Timely: Smart Day Scheduler",
     "companyName": "Clockify Apps",
     "id": 11,
     "description": "Plan your entire day with drag-and-drop smart scheduling tools.",
     "size": 23,
-    "reviews": 6300,
+    "reviews": "6K",
     "ratingAvg": 4.5,
     "downloads": "3.2M",
     "ratings": [
@@ -198,13 +198,13 @@
     ]
   },
   {
-    "image": "brainwave.jpg",
+    "image": "https://play-lh.googleusercontent.com/VH5xLXzIfJadh3Wfb5s7GMq5kfpGsib8qfu1Qexu-P84klFc4s5AMbNC4Gp-BXhrg1s",
     "title": "BrainWave: Memory Trainer",
     "companyName": "Cognitive Labs",
     "id": 12,
     "description": "Sharpen memory with quick brain exercises and progress tracking.",
     "size": 24,
-    "reviews": 8600,
+    "reviews": "8K",
     "ratingAvg": 4.6,
     "downloads": "4.6M",
     "ratings": [
@@ -216,13 +216,13 @@
     ]
   },
   {
-    "image": "focusmate.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzNmPq1VE_K0n6QZXMtwH0EqNOux3uWfetrw&s",
     "title": "FocusMate: Virtual Work Ally",
     "companyName": "CoWork Labs",
     "id": 13,
     "description": "Pair up with real partners online to stay productive together.",
     "size": 27,
-    "reviews": 9900,
+    "reviews": "9K",
     "ratingAvg": 4.8,
     "downloads": "8.3M",
     "ratings": [
@@ -234,13 +234,13 @@
     ]
   },
   {
-    "image": "calmify.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHK25uYS70Ybn8rlqPlBFLDF7PrxYtPesZRw&s",
     "title": "Calmify: Focus Music Player",
     "companyName": "MeloTune",
     "id": 14,
     "description": "Listen to curated calming tracks to improve focus and reduce stress.",
     "size": 30,
-    "reviews": 7200,
+    "reviews": "7K",
     "ratingAvg": 4.5,
     "downloads": "5.8M",
     "ratings": [
@@ -252,13 +252,13 @@
     ]
   },
   {
-    "image": "workly.jpg",
+    "image": "https://play-lh.googleusercontent.com/OlhTXaIZsx5aiEliLbXaamd9FI8Uknu4wnb2JyvekD4NSownwK3aYSRpDBWpE6rBexyv",
     "title": "Workly: Deep Focus Assistant",
     "companyName": "Prodigy Apps",
     "id": 15,
     "description": "Block distractions, manage tasks, and get more done every day.",
     "size": 22,
-    "reviews": 8400,
+    "reviews": "8.4K",
     "ratingAvg": 4.6,
     "downloads": "7.4M",
     "ratings": [
@@ -270,13 +270,13 @@
     ]
   },
   {
-    "image": "flowtask.jpg",
+    "image": "https://play-lh.googleusercontent.com/qFAMkNLb-_rp5mGvrnHK0nkpK6ejGZ8XQVB41izcD5TohEB6jwI5Ri26zjsw8Kx74OQ",
     "title": "FlowTask: Priority Planner",
     "companyName": "FlowOps",
     "id": 16,
     "description": "Prioritize, delegate, and track tasks with a smooth workflow interface.",
     "size": 18,
-    "reviews": 6100,
+    "reviews": "6K",
     "ratingAvg": 4.4,
     "downloads": "3.9M",
     "ratings": [

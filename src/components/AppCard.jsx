@@ -1,18 +1,18 @@
 import React from 'react';
 import downloadIcon from '../assets/icon-downloads.png'
 import ratingIcon from '../assets/icon-ratings.png'
-import appDemo from '../assets/demo-app (1).webp'
+// import appDemo from '../assets/demo-app (1).webp'
 import { Link } from 'react-router';
 
 const AppCard = ({ app }) => {
-  const { title, downloads, ratingAvg } = app;
+  const { title, downloads, ratingAvg, id, image } = app;
   return (
-    <Link>
+    <Link to={`/apps/${id}`}>
       <div className="card bg-base-100 shadow-md rounded-md p-3 space-y-2">
         <figure className="">
           <img
-            src={appDemo}
-            alt="Shoes"
+            src={image}
+            alt={title}
             className="rounded-lg w-full" />
         </figure>
         <h3 className='font-medium text-[#001931]'>{title}</h3>

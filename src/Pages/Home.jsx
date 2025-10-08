@@ -19,8 +19,8 @@ const Home = () => {
             featuredApps.map(app => <AppCard key={app.id} app={app} />)
           }
         </div>
-        <Link to='apps' className="btn px-8 mt-5 bg-gradient-to-l to-[#632EE3] from-[#9F62F2] text-white">
-          <p className="">Show All</p>
+        <Link to='apps' className="btn px-8  py-5 mt-5 bg-gradient-to-l to-[#632EE3] from-[#9F62F2] text-white">
+          <p>Show All</p>
         </Link>
       </div>
     </>

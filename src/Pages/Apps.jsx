@@ -10,7 +10,7 @@ function Apps() {
   const searchedApps = term ?
   appData.filter(app => app.title.toLowerCase().includes(term)) :
   appData;
-  console.log(searchedApps);
+  // console.log(searchedApps);
   return (
     <>
       <div className='mt-20 mb-10 mx-auto w-11/12 text-center space-y-4'>
