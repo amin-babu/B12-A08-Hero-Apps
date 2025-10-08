@@ -4,17 +4,36 @@
     "title": "Forest: Focus for Productivity",
     "companyName": "Seekr Labs",
     "id": 1,
-    "description": "Stay focused and beat phone addiction by planting virtual trees while you work.",
+    "description": [
+      "Forest is more than just a timer; it’s a beautifully designed productivity app that helps you focus by turning your concentration into a growing virtual forest. The concept is simple yet powerful — whenever you want to focus, you plant a tree. As long as you stay away from distractions on your phone, your tree grows. But if you leave the app to check social media or messages, your tree withers. This visual representation of your focus time makes staying disciplined feel rewarding and even a little fun.",
+      "The app tracks your sessions so you can see how your forest flourishes over days, weeks, and months. It’s not just about staying away from your phone; it’s about building a habit of deep work. Forest also lets you collaborate with friends or teammates by planting trees together during shared focus sessions, creating a sense of accountability and community. The minimalistic interface, soft nature sounds, and calming visuals make it easy to settle into a distraction-free mindset. For those who love gamification, unlocking rare trees and expanding your forest becomes a motivational challenge.",
+      "Whether you’re a student preparing for exams, a professional tackling projects, or simply someone trying to reduce screen time, Forest turns productivity into an enjoyable journey. By growing real trees through partnerships with tree-planting organizations, your focus time also contributes to the environment. This blend of personal growth and positive impact makes Forest an inspiring companion for anyone aiming to stay mindful and achieve more."
+    ],
     "size": 32,
     "reviews": "12K",
     "ratingAvg": 4.8,
     "downloads": "9M",
     "ratings": [
-      { "name": "1 star", "count": 450 },
-      { "name": "2 star", "count": 300 },
-      { "name": "3 star", "count": 800 },
-      { "name": "4 star", "count": 2500 },
-      { "name": "5 star", "count": 8950 }
+      {
+        "name": "1 star",
+        "count": 450
+      },
+      {
+        "name": "2 star",
+        "count": 300
+      },
+      {
+        "name": "3 star",
+        "count": 800
+      },
+      {
+        "name": "4 star",
+        "count": 2500
+      },
+      {
+        "name": "5 star",
+        "count": 8950
+      }
     ]
   },
   {
@@ -22,17 +41,36 @@
     "title": "SmPlan: To-Do with Reminder",
     "companyName": "Smartly Apps",
     "id": 2,
-    "description": "Organize tasks with reminders and sync across all your devices instantly.",
+    "description": [
+      "SmPlan is the ultimate task manager for busy people who want a seamless blend of reminders, to-do lists, and focus tools. The app is designed to keep your day organized without overwhelming you. You can create tasks in seconds, set reminders for important deadlines, and synchronize them across all your devices instantly. Its clean interface ensures that you spend more time getting things done instead of figuring out how to use the app.",
+      "One of the standout features of SmPlan is its smart prioritization system. Tasks can be categorized based on urgency and importance, helping you focus on what truly matters. The reminder system is customizable — you can set gentle nudges or persistent notifications to make sure you never miss a meeting or assignment. With recurring task options, routine chores and long-term goals become easier to manage. Its calendar integration allows you to visualize your tasks in a timeline format, making planning more intuitive.",
+      "For people who struggle to maintain consistency, SmPlan offers progress tracking and completion streaks. Watching your streak grow motivates you to stay disciplined every day. Whether you’re managing office projects, personal errands, or study schedules, SmPlan is a practical companion that combines structure with flexibility to keep your productivity at its peak."
+    ],
     "size": 18,
     "reviews": "87K",
     "ratingAvg": 4.5,
     "downloads": "5.2M",
     "ratings": [
-      { "name": "1 star", "count": 300 },
-      { "name": "2 star", "count": 500 },
-      { "name": "3 star", "count": 900 },
-      { "name": "4 star", "count": 2600 },
-      { "name": "5 star", "count": 5400 }
+      {
+        "name": "1 star",
+        "count": 300
+      },
+      {
+        "name": "2 star",
+        "count": 500
+      },
+      {
+        "name": "3 star",
+        "count": 900
+      },
+      {
+        "name": "4 star",
+        "count": 2600
+      },
+      {
+        "name": "5 star",
+        "count": 5400
+      }
     ]
   },
   {
@@ -40,17 +78,36 @@
     "title": "FLIP: Focus Timer for Study",
     "companyName": "FLIP Studio",
     "id": 3,
-    "description": "A minimal focus timer built for students to track productive study hours.",
+    "description": [
+      "FLIP is a focus timer tailored especially for students and learners who want to track their study hours with precision. Its minimal design eliminates unnecessary distractions, allowing you to simply flip your phone to start a session. The interface is intuitive — as soon as you flip your device face down, the timer begins, encouraging you to keep your attention on your books or work.",
+      "What makes FLIP stand out is its powerful analytics. It records the duration and number of your study sessions, displaying them in beautiful graphs and charts. Over time, you can see how your focus habits evolve, which subjects consume the most effort, and when you’re most productive during the day. This feedback loop motivates you to improve and stay consistent.",
+      "FLIP also includes community study challenges where you can compete or collaborate with peers to achieve focus milestones. Its leaderboard feature adds a fun competitive edge to staying disciplined. Whether you’re preparing for exams, learning a new language, or honing a professional skill, FLIP turns the often boring process of time tracking into an engaging experience."
+    ],
     "size": 25,
     "reviews": "14K",
     "ratingAvg": 4.6,
     "downloads": "7M",
     "ratings": [
-      { "name": "1 star", "count": 500 },
-      { "name": "2 star", "count": 700 },
-      { "name": "3 star", "count": 1200 },
-      { "name": "4 star", "count": 3600 },
-      { "name": "5 star", "count": 9300 }
+      {
+        "name": "1 star",
+        "count": 500
+      },
+      {
+        "name": "2 star",
+        "count": 700
+      },
+      {
+        "name": "3 star",
+        "count": 1200
+      },
+      {
+        "name": "4 star",
+        "count": 3600
+      },
+      {
+        "name": "5 star",
+        "count": 9300
+      }
     ]
   },
   {
@@ -58,17 +115,36 @@
     "title": "Pomocat: Cute Pomodoro Timer",
     "companyName": "Furry Devs",
     "id": 4,
-    "description": "Boost productivity with an adorable cat-themed Pomodoro timer app.",
+    "description": [
+      "Pomocat brings a refreshing twist to the classic Pomodoro technique by adding adorable cat-themed animations to your focus sessions. Every work interval feels lighter and more enjoyable as cheerful cats accompany you on your productivity journey. This charming approach not only makes focusing less stressful but also adds a touch of warmth and personality to your workspace.",
+      "The app allows you to customize your Pomodoro cycles with different lengths for work and breaks. You can choose playful cat animations and soothing background sounds to match your mood, creating a cozy environment for concentration. It tracks your completed sessions, giving you insights into your daily productivity trends and progress toward your goals.",
+      "Pomocat is perfect for students, freelancers, or anyone who needs a structured routine but craves a bit of fun during work. By pairing functionality with delightful visuals, the app reduces mental fatigue and makes staying consistent with Pomodoro sessions much easier."
+    ],
     "size": 21,
     "reviews": "98K",
     "ratingAvg": 4.7,
     "downloads": "3.5M",
     "ratings": [
-      { "name": "1 star", "count": 200 },
-      { "name": "2 star", "count": 350 },
-      { "name": "3 star", "count": 900 },
-      { "name": "4 star", "count": 3100 },
-      { "name": "5 star", "count": 5250 }
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "2 star",
+        "count": 350
+      },
+      {
+        "name": "3 star",
+        "count": 900
+      },
+      {
+        "name": "4 star",
+        "count": 3100
+      },
+      {
+        "name": "5 star",
+        "count": 5250
+      }
     ]
   },
   {
@@ -76,17 +152,36 @@
     "title": "TaskLynx: Daily Goal Planner",
     "companyName": "NextGen Tools",
     "id": 5,
-    "description": "Track daily goals with smart analytics to build winning habits.",
+    "description": [
+      "TaskLynx is designed for goal-oriented individuals who want to bring clarity and structure to their daily routine. It acts as a personal planner where you can set priorities, track progress, and build winning habits step by step. The sleek dashboard displays your daily, weekly, and monthly goals at a glance, helping you stay organized and intentional about your actions.",
+      "The app’s strength lies in its analytics. Each task you complete contributes to detailed performance reports that reveal your productivity trends. These insights empower you to adjust your workflow and optimize how you use your time. With habit streaks, TaskLynx keeps you motivated to maintain consistency and achieve small wins that lead to bigger results.",
+      "Whether you’re working on fitness, academics, personal projects, or professional milestones, TaskLynx serves as a reliable guide to keep you aligned with your objectives. It’s not just a planner; it’s a roadmap for continuous improvement and long-term success."
+    ],
     "size": 19,
     "reviews": "6K",
     "ratingAvg": 4.4,
     "downloads": "4.8M",
     "ratings": [
-      { "name": "1 star", "count": 400 },
-      { "name": "2 star", "count": 420 },
-      { "name": "3 star", "count": 850 },
-      { "name": "4 star", "count": 2100 },
-      { "name": "5 star", "count": 2730 }
+      {
+        "name": "1 star",
+        "count": 400
+      },
+      {
+        "name": "2 star",
+        "count": 420
+      },
+      {
+        "name": "3 star",
+        "count": 850
+      },
+      {
+        "name": "4 star",
+        "count": 2100
+      },
+      {
+        "name": "5 star",
+        "count": 2730
+      }
     ]
   },
   {
@@ -94,17 +189,36 @@
     "title": "MindTrack: Study Break Guide",
     "companyName": "FocusHive",
     "id": 6,
-    "description": "Structured sessions for studying with breaks and motivational music.",
+    "description": [
+      "MindTrack is a scientifically designed study companion that helps you maintain the perfect balance between work and rest. It organizes your study sessions into structured intervals with carefully timed breaks, ensuring you don’t burn out while preparing for exams or tackling long projects. The app is particularly effective for students who need a disciplined routine without feeling overwhelmed.",
+      "MindTrack’s motivational music library and gentle notifications create an environment that promotes concentration and relaxation. During breaks, it suggests light exercises or mindfulness activities to refresh your mind. The progress tracker records every completed session, showing you how much focused time you’ve accumulated over days and weeks.",
+      "By encouraging healthier study habits, MindTrack makes long hours of preparation more sustainable and productive. It’s the perfect tool for students, researchers, and anyone who values both efficiency and well-being in their learning process."
+    ],
     "size": 28,
     "reviews": "72K",
     "ratingAvg": 4.6,
     "downloads": "6.1M",
     "ratings": [
-      { "name": "1 star", "count": 280 },
-      { "name": "2 star", "count": 350 },
-      { "name": "3 star", "count": 980 },
-      { "name": "4 star", "count": 2600 },
-      { "name": "5 star", "count": 4980 }
+      {
+        "name": "1 star",
+        "count": 280
+      },
+      {
+        "name": "2 star",
+        "count": 350
+      },
+      {
+        "name": "3 star",
+        "count": 980
+      },
+      {
+        "name": "4 star",
+        "count": 2600
+      },
+      {
+        "name": "5 star",
+        "count": 4980
+      }
     ]
   },
   {
@@ -112,17 +226,36 @@
     "title": "ProTime: Smart Work Tracker",
     "companyName": "WorkPro Labs",
     "id": 7,
-    "description": "Track work hours, break times, and boost productivity with insights.",
+    "description": [
+      "ProTime is a productivity powerhouse designed to help professionals monitor their work hours, breaks, and performance with precision. It’s especially valuable for freelancers, remote workers, and teams who want to understand where their time goes each day. The app’s intuitive dashboard breaks down your day into clear segments, showing you how much time you’ve spent on each task or project.",
+      "The app’s insights go beyond basic tracking. ProTime analyzes your work patterns to identify your peak productivity hours and suggests ways to optimize your schedule. It also helps you avoid burnout by reminding you to take timely breaks and manage your energy levels effectively. Its user-friendly reports are excellent for personal reflection or professional reporting.",
+      "By turning raw time data into meaningful insights, ProTime empowers you to take control of your workflow and achieve better work-life balance. It’s the ultimate tool for anyone who wants to maximize output without sacrificing well-being."
+    ],
     "size": 22,
     "reviews": "94K",
     "ratingAvg": 4.5,
     "downloads": "8M",
     "ratings": [
-      { "name": "1 star", "count": 400 },
-      { "name": "2 star", "count": 620 },
-      { "name": "3 star", "count": 1500 },
-      { "name": "4 star", "count": 3200 },
-      { "name": "5 star", "count": 3680 }
+      {
+        "name": "1 star",
+        "count": 400
+      },
+      {
+        "name": "2 star",
+        "count": 620
+      },
+      {
+        "name": "3 star",
+        "count": 1500
+      },
+      {
+        "name": "4 star",
+        "count": 3200
+      },
+      {
+        "name": "5 star",
+        "count": 3680
+      }
     ]
   },
   {
@@ -130,17 +263,36 @@
     "title": "ZenFocus: Calm Work Sessions",
     "companyName": "Zenith Apps",
     "id": 8,
-    "description": "Achieve deep focus with calm ambient sounds and clean UI.",
+    "description": [
+      "ZenFocus is a minimalistic yet powerful focus app that combines productivity with mindfulness. Its clean interface and calming ambient sounds help you enter deep focus sessions without distractions. Designed for professionals, writers, and students alike, ZenFocus encourages you to slow down, breathe, and work with intention rather than stress.",
+      "The app features customizable session lengths and a selection of soothing nature sounds or soft instrumental music to keep you grounded while you work. By reducing mental clutter, ZenFocus allows you to fully engage in your tasks, improving both efficiency and creativity. Progress charts provide insights into your focus patterns, motivating you to build stronger habits over time.",
+      "If you often feel overwhelmed by hectic schedules or digital noise, ZenFocus offers a serene workspace where productivity meets peace of mind. It’s more than an app — it’s a reminder to work smarter and stay centered."
+    ],
     "size": 26,
     "reviews": "83K",
     "ratingAvg": 4.7,
     "downloads": "5.3M",
     "ratings": [
-      { "name": "1 star", "count": 250 },
-      { "name": "2 star", "count": 300 },
-      { "name": "3 star", "count": 800 },
-      { "name": "4 star", "count": 2700 },
-      { "name": "5 star", "count": 4250 }
+      {
+        "name": "1 star",
+        "count": 250
+      },
+      {
+        "name": "2 star",
+        "count": 300
+      },
+      {
+        "name": "3 star",
+        "count": 800
+      },
+      {
+        "name": "4 star",
+        "count": 2700
+      },
+      {
+        "name": "5 star",
+        "count": 4250
+      }
     ]
   },
   {
@@ -148,17 +300,36 @@
     "title": "HabitNest: Build Better Habits",
     "companyName": "NestWorks",
     "id": 9,
-    "description": "Create powerful routines and stay consistent with smart reminders.",
+    "description": [
+      "HabitNest is your personal coach for building life-changing habits one step at a time. Unlike generic habit trackers, it provides guidance, motivation, and actionable steps to help you stay consistent. Each habit you create comes with a tailored plan that breaks your goal into smaller, achievable milestones.",
+      "The app’s reminders, motivational quotes, and progress streaks keep you accountable throughout your journey. Its analytics highlight which habits you’re sticking to and which ones need more attention, allowing you to adjust your strategies. Over time, these insights help you form routines that align with your personal and professional aspirations.",
+      "HabitNest is perfect for anyone aiming to develop healthier routines, learn new skills, or improve productivity. By focusing on small, steady progress, it empowers you to transform your lifestyle in a sustainable way."
+    ],
     "size": 20,
     "reviews": "78K",
     "ratingAvg": 4.6,
     "downloads": "4.1M",
     "ratings": [
-      { "name": "1 star", "count": 200 },
-      { "name": "2 star", "count": 310 },
-      { "name": "3 star", "count": 900 },
-      { "name": "4 star", "count": 2500 },
-      { "name": "5 star", "count": 3880 }
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "2 star",
+        "count": 310
+      },
+      {
+        "name": "3 star",
+        "count": 900
+      },
+      {
+        "name": "4 star",
+        "count": 2500
+      },
+      {
+        "name": "5 star",
+        "count": 3880
+      }
     ]
   },
   {
@@ -166,17 +337,36 @@
     "title": "StudyHub: Join Focus Rooms",
     "companyName": "Hubify",
     "id": 10,
-    "description": "Join virtual study rooms with friends and stay accountable.",
+    "description": [
+      "StudyHub revolutionizes remote studying by connecting learners from around the world in virtual focus rooms. These shared spaces let you work alongside others in real time, fostering a sense of accountability and reducing feelings of isolation during long study sessions. It’s like having a virtual library where everyone is quietly working together toward their own goals.",
+      "The app features room scheduling, chat options for peer support, and background white noise to simulate a productive environment. You can track your progress alongside your peers, which makes studying feel more communal and motivating. Whether you’re preparing for exams, working on projects, or doing deep work, StudyHub’s interactive approach keeps you engaged and consistent.",
+      "By transforming solo study time into a collaborative experience, StudyHub helps you stay on track, motivated, and more productive — no matter where you are."
+    ],
     "size": 29,
     "reviews": "9K",
     "ratingAvg": 4.8,
     "downloads": "9.5M",
     "ratings": [
-      { "name": "1 star", "count": 320 },
-      { "name": "2 star", "count": 400 },
-      { "name": "3 star", "count": 800 },
-      { "name": "4 star", "count": 2600 },
-      { "name": "5 star", "count": 5580 }
+      {
+        "name": "1 star",
+        "count": 320
+      },
+      {
+        "name": "2 star",
+        "count": 400
+      },
+      {
+        "name": "3 star",
+        "count": 800
+      },
+      {
+        "name": "4 star",
+        "count": 2600
+      },
+      {
+        "name": "5 star",
+        "count": 5580
+      }
     ]
   },
   {
@@ -184,17 +374,36 @@
     "title": "Timely: Smart Day Scheduler",
     "companyName": "Clockify Apps",
     "id": 11,
-    "description": "Plan your entire day with drag-and-drop smart scheduling tools.",
+    "description": [
+      "Timely simplifies the challenge of daily planning with its intuitive drag-and-drop scheduling system. You can design your entire day by arranging tasks, events, and breaks in a visual timeline that’s easy to understand at a glance. This approach minimizes chaos and helps you stay on top of deadlines.",
+      "One of Timely’s strengths is its real-time reminders and adaptability. As your plans shift, you can adjust tasks effortlessly without losing track of priorities. Its analytics display how much of your day you’ve spent on various activities, allowing you to identify time sinks and boost efficiency.",
+      "For professionals balancing work, meetings, and personal commitments, Timely is a reliable partner that keeps your schedule streamlined, organized, and stress-free."
+    ],
     "size": 23,
     "reviews": "6K",
     "ratingAvg": 4.5,
     "downloads": "3.2M",
     "ratings": [
-      { "name": "1 star", "count": 300 },
-      { "name": "2 star", "count": 310 },
-      { "name": "3 star", "count": 850 },
-      { "name": "4 star", "count": 2000 },
-      { "name": "5 star", "count": 3340 }
+      {
+        "name": "1 star",
+        "count": 300
+      },
+      {
+        "name": "2 star",
+        "count": 310
+      },
+      {
+        "name": "3 star",
+        "count": 850
+      },
+      {
+        "name": "4 star",
+        "count": 2000
+      },
+      {
+        "name": "5 star",
+        "count": 3340
+      }
     ]
   },
   {
@@ -202,17 +411,36 @@
     "title": "BrainWave: Memory Trainer",
     "companyName": "Cognitive Labs",
     "id": 12,
-    "description": "Sharpen memory with quick brain exercises and progress tracking.",
+    "description": [
+      "BrainWave focuses on enhancing cognitive abilities with engaging memory exercises. The app’s carefully designed games challenge your short-term and long-term memory, improving concentration, recall speed, and mental flexibility over time. It’s suitable for students, professionals, and anyone interested in keeping their brain sharp.",
+      "BrainWave tracks your progress through detailed stats and adaptive challenges that adjust to your skill level. By making memory training fun and interactive, the app encourages consistent practice and long-term improvement. Its sleek design ensures that you can train your brain anytime, anywhere without distractions.",
+      "Whether you want to perform better at school, excel at work, or simply maintain mental agility as you age, BrainWave provides a fun and effective solution for sharpening your mind."
+    ],
     "size": 24,
     "reviews": "8K",
     "ratingAvg": 4.6,
     "downloads": "4.6M",
     "ratings": [
-      { "name": "1 star", "count": 280 },
-      { "name": "2 star", "count": 420 },
-      { "name": "3 star", "count": 960 },
-      { "name": "4 star", "count": 2500 },
-      { "name": "5 star", "count": 4440 }
+      {
+        "name": "1 star",
+        "count": 280
+      },
+      {
+        "name": "2 star",
+        "count": 420
+      },
+      {
+        "name": "3 star",
+        "count": 960
+      },
+      {
+        "name": "4 star",
+        "count": 2500
+      },
+      {
+        "name": "5 star",
+        "count": 4440
+      }
     ]
   },
   {
@@ -220,17 +448,36 @@
     "title": "FocusMate: Virtual Work Ally",
     "companyName": "CoWork Labs",
     "id": 13,
-    "description": "Pair up with real partners online to stay productive together.",
+    "description": [
+      "FocusMate transforms remote productivity by pairing you with real partners online to work side by side in live sessions. This accountability-driven approach helps you overcome procrastination by simulating the presence of a coworker, motivating you to stay focused on your tasks.",
+      "Each session begins with both partners briefly sharing their goals before diving into silent, dedicated work. At the end of the session, you check in to review what you accomplished, creating a powerful cycle of commitment and reflection. The platform is designed to keep interactions professional and supportive, making it ideal for freelancers, students, and professionals alike.",
+      "By combining social accountability with structured focus time, FocusMate makes it easier to build productive habits and achieve your goals faster."
+    ],
     "size": 27,
     "reviews": "9K",
     "ratingAvg": 4.8,
     "downloads": "8.3M",
     "ratings": [
-      { "name": "1 star", "count": 300 },
-      { "name": "2 star", "count": 320 },
-      { "name": "3 star", "count": 880 },
-      { "name": "4 star", "count": 2700 },
-      { "name": "5 star", "count": 5700 }
+      {
+        "name": "1 star",
+        "count": 300
+      },
+      {
+        "name": "2 star",
+        "count": 320
+      },
+      {
+        "name": "3 star",
+        "count": 880
+      },
+      {
+        "name": "4 star",
+        "count": 2700
+      },
+      {
+        "name": "5 star",
+        "count": 5700
+      }
     ]
   },
   {
@@ -238,17 +485,36 @@
     "title": "Calmify: Focus Music Player",
     "companyName": "MeloTune",
     "id": 14,
-    "description": "Listen to curated calming tracks to improve focus and reduce stress.",
+    "description": [
+      "Calmify enhances your work environment with a curated library of calming music designed to reduce stress and improve focus. It’s the perfect companion for anyone who finds silence distracting but needs sounds that won’t interrupt their flow. The app offers categories like white noise, nature sounds, soft piano, and lo-fi beats.",
+      "The music is carefully optimized to encourage concentration without overwhelming your senses. You can create playlists for specific tasks — such as studying, writing, or meditating — and set timers to automatically end playback when your session is done. The app’s elegant interface and minimal distractions help you immerse yourself fully in your work.",
+      "Calmify proves that the right soundscape can transform your productivity levels and mental clarity, making it an essential tool for focused work sessions."
+    ],
     "size": 30,
     "reviews": "7K",
     "ratingAvg": 4.5,
     "downloads": "5.8M",
     "ratings": [
-      { "name": "1 star", "count": 310 },
-      { "name": "2 star", "count": 340 },
-      { "name": "3 star", "count": 900 },
-      { "name": "4 star", "count": 2600 },
-      { "name": "5 star", "count": 4050 }
+      {
+        "name": "1 star",
+        "count": 310
+      },
+      {
+        "name": "2 star",
+        "count": 340
+      },
+      {
+        "name": "3 star",
+        "count": 900
+      },
+      {
+        "name": "4 star",
+        "count": 2600
+      },
+      {
+        "name": "5 star",
+        "count": 4050
+      }
     ]
   },
   {
@@ -256,17 +522,36 @@
     "title": "Workly: Deep Focus Assistant",
     "companyName": "Prodigy Apps",
     "id": 15,
-    "description": "Block distractions, manage tasks, and get more done every day.",
+    "description": [
+      "Workly is a comprehensive productivity assistant that helps you block distractions, manage tasks, and maintain a deep focus routine. It’s designed for people who need to concentrate on important projects without constant interruptions from notifications or social media.",
+      "The app allows you to set focus sessions with customizable timers, block distracting apps and websites, and receive progress reports on your work habits. Over time, it helps you identify patterns that hinder productivity and suggests ways to overcome them. The goal is to build an environment where you can consistently achieve peak performance.",
+      "Workly is ideal for students, developers, writers, or anyone who wants to create a disciplined work routine. By combining focus tools with task management, it ensures you get more done in less time without feeling overwhelmed."
+    ],
     "size": 22,
     "reviews": "8.4K",
     "ratingAvg": 4.6,
     "downloads": "7.4M",
     "ratings": [
-      { "name": "1 star", "count": 250 },
-      { "name": "2 star", "count": 370 },
-      { "name": "3 star", "count": 900 },
-      { "name": "4 star", "count": 2800 },
-      { "name": "5 star", "count": 5080 }
+      {
+        "name": "1 star",
+        "count": 250
+      },
+      {
+        "name": "2 star",
+        "count": 370
+      },
+      {
+        "name": "3 star",
+        "count": 900
+      },
+      {
+        "name": "4 star",
+        "count": 2800
+      },
+      {
+        "name": "5 star",
+        "count": 5080
+      }
     ]
   },
   {
@@ -274,17 +559,36 @@
     "title": "FlowTask: Priority Planner",
     "companyName": "FlowOps",
     "id": 16,
-    "description": "Prioritize, delegate, and track tasks with a smooth workflow interface.",
+    "description": [
+      "FlowTask is a smart planner designed to help you prioritize tasks and streamline your workflow. Its smooth, intuitive interface makes organizing your day feel effortless while ensuring that you focus on what matters most. With drag-and-drop task management, you can easily rearrange priorities as situations change.",
+      "The app offers delegation features for teams, allowing you to assign tasks to colleagues and monitor progress in real time. Detailed progress charts and reminders keep you aligned with your goals, preventing procrastination and bottlenecks. Its collaborative tools make it equally suitable for personal projects and team-based work.",
+      "By turning planning into a dynamic and flexible process, FlowTask empowers you to stay productive, organized, and stress-free even on your busiest days."
+    ],
     "size": 18,
     "reviews": "6K",
     "ratingAvg": 4.4,
     "downloads": "3.9M",
     "ratings": [
-      { "name": "1 star", "count": 280 },
-      { "name": "2 star", "count": 330 },
-      { "name": "3 star", "count": 800 },
-      { "name": "4 star", "count": 2000 },
-      { "name": "5 star", "count": 3090 }
+      {
+        "name": "1 star",
+        "count": 280
+      },
+      {
+        "name": "2 star",
+        "count": 330
+      },
+      {
+        "name": "3 star",
+        "count": 800
+      },
+      {
+        "name": "4 star",
+        "count": 2000
+      },
+      {
+        "name": "5 star",
+        "count": 3090
+      }
     ]
   }
 ]

@@ -11,22 +11,22 @@ const router = createBrowserRouter([
   {
     path: '/',
     Component: MainLayouts,
-    errorElement: <ErrorPage/>,
+    errorElement: <ErrorPage />,
     children: [
       {
         index: true,
         Component: Home
       },
       {
-        path: 'apps',
+        path: '/apps',
         Component: Apps
       },
       {
-        path: 'installations',
+        path: '/installations',
         Component: Installations
       },
       {
-        path: 'apps/:id',
+        path: '/apps/:id',
         Component: AppDetails
       }
     ]
