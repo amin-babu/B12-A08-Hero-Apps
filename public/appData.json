@@ -199,7 +199,7 @@
   },
   {
     "image": "brainwave.jpg",
-    "title": "BrainWave: Memory Boost Trainer",
+    "title": "BrainWave: Memory Trainer",
     "companyName": "Cognitive Labs",
     "id": 12,
     "description": "Sharpen memory with quick brain exercises and progress tracking.",
@@ -217,7 +217,7 @@
   },
   {
     "image": "focusmate.jpg",
-    "title": "FocusMate: Virtual Work Partner",
+    "title": "FocusMate: Virtual Work Ally",
     "companyName": "CoWork Labs",
     "id": 13,
     "description": "Pair up with real partners online to stay productive together.",
@@ -271,7 +271,7 @@
   },
   {
     "image": "flowtask.jpg",
-    "title": "FlowTask: Priority Task Manager",
+    "title": "FlowTask: Priority Planner",
     "companyName": "FlowOps",
     "id": 16,
     "description": "Prioritize, delegate, and track tasks with a smooth workflow interface.",

@@ -7,7 +7,7 @@ import { Link } from 'react-router';
 const Home = () => {
   const { appData } = useAppDatas();
   const featuredApps = appData.slice(0, 8);
-  console.log(appData);
+  // console.log(appData);
   return (
     <>
       <HomePageDesign />
