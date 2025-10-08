@@ -43,7 +43,7 @@ const Navber = () => {
         </div>
         <Link to='https://github.com/amin-babu/' target='_blank' className="btn flex bg-gradient-to-l to-[#632EE3] from-[#9F62F2] text-white">
           <img src={gitLogo} alt="" />
-          <a className="">Contribute</a>
+          <p className="">Contribute</p>
         </Link>
       </div>
     </div>
