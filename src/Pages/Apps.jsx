@@ -2,15 +2,17 @@ import { useState } from "react";
 import useAppDatas from "../Hooks/useAppDatas"
 import searchIcon from '../assets/search-icon.png'
 import AppCard from '../components/AppCard';
+import Loading from "../components/Loading";
 
 function Apps() {
-  const { appData } = useAppDatas();
+  const { appData, loading } = useAppDatas();
   const [search, setSearch] = useState('');
+  if (loading) return <Loading />;
   const term = search.trim().toLowerCase();
   const searchedApps = term ?
-  appData.filter(app => app.title.toLowerCase().includes(term)) :
-  appData;
-  // console.log(searchedApps);
+    appData.filter(app => app.title.toLowerCase().includes(term)) :
+    appData;
+
   return (
     <>
       <div className='mt-20 mb-10 mx-auto w-11/12 text-center space-y-4'>
@@ -25,7 +27,9 @@ function Apps() {
         </div>
         <div className='grid gap-4 grid-cols-1 md:grid-cols-4'>
           {
-            searchedApps.map(app => <AppCard key={app.id} app={app} />)
+            searchedApps.length === 0 ?
+              <h2 className="col-span-full text-4xl font-bold text-[#001931]">No App Found</h2> :
+              searchedApps.map(app => <AppCard key={app.id} app={app} />)
           }
         </div>
       </div>

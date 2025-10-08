@@ -3,10 +3,12 @@ import HomePageDesign from '../components/HomePageDesign';
 import useAppDatas from '../Hooks/useAppDatas';
 import AppCard from '../components/AppCard';
 import { Link } from 'react-router';
+import Loading from '../components/Loading';
 
 const Home = () => {
-  const { appData } = useAppDatas();
+  const { appData, loading } = useAppDatas();
   const featuredApps = appData.slice(0, 8);
+  if (loading) return <Loading />;
   // console.log(appData);
   return (
     <>
