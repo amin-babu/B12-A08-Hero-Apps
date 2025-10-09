@@ -17,7 +17,7 @@ const InstallCard = ({ installApp, handleUnInstall }) => {
             <h3 className='font-medium text-xl text-[#001931]'>{title}</h3>
             <div className='flex items-center mx-auto md:mx-0'>
               <div className="badge py-3 px-2 rounded-sm bg-transparent border-0 text-[#00D390] badge-soft badge-success">
-                <img className='w-4' src={downloadIcon} alt="" /> {downloads}
+                <img className='w-4' src={downloadIcon} alt="" /> {downloads}M
               </div>
               <div className="badge py-3 px-2 rounded-sm bg-transparent border-0 text-[#FF8811] badge-soft badge-warning">
                 <img className='w-4' src={ratingIcon} alt="" /> {ratingAvg}

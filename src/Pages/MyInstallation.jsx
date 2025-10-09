@@ -10,13 +10,12 @@ const MyInstallation = () => {
   const [sortOrder, setSortOrder] = useState('none');
   const { loading } = useAppDatas();
   if (loading) return <Loading />
-  // console.log(installData);
 
   const sortAppsBySize = (() => {
     if (sortOrder === 'price-asc') {
-      return [...installData].sort((a, b) => a.size - b.size);
+      return [...installData].sort((a, b) => a.downloads - b.downloads);
     } else if (sortOrder === 'price-dsc') {
-      return [...installData].sort((a, b) => b.size - a.size);
+      return [...installData].sort((a, b) => b.downloads - a.downloads);
     } else {
       return installData;
     }
@@ -31,7 +30,6 @@ const MyInstallation = () => {
     toast('App is Uninstalled');
   };
 
-
   return (
     <div className='w-11/12 mx-auto text-center'>
       <h3 className='font-bold text-5xl mt-16 text-[#001931]'>Your Installed Apps</h3>
@@ -40,7 +38,7 @@ const MyInstallation = () => {
         <h2 className='text-2xl font-semibold'>{sortAppsBySize.length ? sortAppsBySize.length : 'No'} {sortAppsBySize.length <= 1 ? 'App' : 'Apps'} Found</h2>
         <label className='form-control max-w-xs'>
           <select className='select bg-[#f5f5f5] select-bordered' value={sortOrder} onChange={e => setSortOrder(e.target.value)}>
-            <option value="none">Sort by Size</option>
+            <option value="none">Sort by Downloads</option>
             <option value="price-asc">Low &gt; High</option>
             <option value="price-dsc">High &gt; Low</option>
           </select>
