@@ -5,7 +5,7 @@ import Loading from '../components/Loading';
 import InstallCard from '../components/InstallCard';
 import { toast } from 'react-toastify';
 
-const Installations = () => {
+const MyInstallation = () => {
   const [installData, setInstallData] = useState(() => loadInstalledData());
   const [sortOrder, setSortOrder] = useState('none');
   const { loading } = useAppDatas();
@@ -56,4 +56,4 @@ const Installations = () => {
   );
 };
 
-export default Installations;
+export default MyInstallation;

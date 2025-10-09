@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import useAppDatas from "../Hooks/useAppDatas"
 import searchIcon from '../assets/search-icon.png'
 import AppCard from '../components/AppCard';
@@ -7,11 +7,22 @@ import Loading from "../components/Loading";
 function Apps() {
   const { appData, loading } = useAppDatas();
   const [search, setSearch] = useState('');
+  const [searchLoading, setSearchLoading] = useState(false);
+  
+  useEffect(() => {
+    if (searchLoading) {
+      const timer = setTimeout(() => {
+        setSearchLoading(false);
+      }, 500);
+      return () => clearTimeout(timer);
+    }
+  }, [search, searchLoading]);
+
   if (loading) return <Loading />;
   const term = search.trim().toLowerCase();
+
   const searchedApps = term ?
-    appData.filter(app => app.title.toLowerCase().includes(term)) :
-    appData;
+    appData.filter(app => app.title.toLowerCase().includes(term)) : appData;
 
   return (
     <>
@@ -22,12 +33,17 @@ function Apps() {
           <h4 className='text-2xl font-semibold'>({searchedApps.length}) Apps Found</h4>
           <label className="input bg-transparent">
             <img src={searchIcon} alt="" />
-            <input onChange={(e) => setSearch(e.target.value)} type="search" placeholder="Search Apps" />
+            <input onChange={(e) => {
+              setSearch(e.target.value);
+              setSearchLoading(true);
+            }} type="search" placeholder="Search Apps" />
           </label>
         </div>
         <div className='grid gap-4 grid-cols-1 md:grid-cols-4'>
           {
-            searchedApps.length === 0 ?
+            searchLoading ? (
+              <Loading />
+            ) : searchedApps.length === 0 ?
               <h2 className="col-span-full text-4xl font-bold text-[#001931]">No App Found</h2> :
               searchedApps.map(app => <AppCard key={app.id} app={app} />)
           }

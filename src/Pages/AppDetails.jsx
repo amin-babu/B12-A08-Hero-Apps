@@ -84,6 +84,7 @@ const AppDetails = () => {
       </div>
 
       <div className='py-5 border-y border-y-[#00193150] my-10'>
+        <h4 className='text-2xl font-semibold text-[#001931] mb-4'>Ratings</h4>
         <Recharts ratings={ratings} />
       </div>
 
