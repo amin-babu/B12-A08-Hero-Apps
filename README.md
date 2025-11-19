@@ -3,7 +3,7 @@
 A simple React app where you can explore, search, and install different apps.  
 You can see app details like ratings, downloads, and reviews.
 
-**Live Site URL:** [https://b12a08-nexahero.netlify.app/](#)  
+**Live Site URL:** https://b12a08-nexahero.netlify.app
 
 ## 🌟 Features
 - View all apps  
